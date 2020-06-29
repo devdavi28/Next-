@@ -1,0 +1,9 @@
+[0613/234044.901:ERROR:process_info.cc(359)] UncheckedAllocate
+[0616/195453.346:ERROR:process_info.cc(359)] UncheckedAllocate
+[0617/194000.302:ERROR:process_info.cc(359)] UncheckedAllocate
+[0617/194000.524:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: A operação foi concluída com êxito. (0x0)
+[0617/225724.387:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0617/225724.480:ERROR:exception_snapshot_win.cc(98)] thread ID 5752 not found in process
+[0627/120053.042:ERROR:process_info.cc(359)] UncheckedAllocate
+[0627/120054.659:ERROR:process_info.cc(359)] UncheckedAllocate
+[0627/203053.126:ERROR:process_info.cc(359)] UncheckedAllocate
